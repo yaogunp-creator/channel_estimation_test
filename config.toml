@@ -1,0 +1,30 @@
+[theme]
+base = "dark"
+primaryColor = "#89b4fa"
+backgroundColor = "#11111b"
+secondaryBackgroundColor = "#1e1e2e"
+textColor = "#cdd6f4"
+borderColor = "#313244"
+linkColor = "#89b4fa"
+baseRadius = "12px"
+buttonRadius = "8px"
+
+# Catppuccin Mocha 语义色
+blueColor = "#89b4fa"
+greenColor = "#a6e3a1"
+yellowColor = "#f9e2af"
+redColor = "#f38ba8"
+violetColor = "#cba6f7"
+orangeColor = "#fab387"
+grayColor = "#a6adc8"
+
+chartCategoricalColors = ["#89b4fa", "#a6e3a1", "#f9e2af", "#f38ba8", "#cba6f7", "#94e2d5", "#fab387", "#89dceb"]
+
+[theme.sidebar]
+backgroundColor = "#181825"
+secondaryBackgroundColor = "#1e1e2e"
+textColor = "#cdd6f4"
+borderColor = "#313244"
+
+[browser]
+gatherUsageStats = false
